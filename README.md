@@ -1,1 +1,8 @@
-# hermes-personal-app
+# Hermes Personal
+
+自宅サーバー上で動かしている個人用AIエージェントから、作成者本人のGoogleアカウント
+(カレンダー・Gmail・ドライブなど)を操作するための、個人利用専用のツールです。
+
+- 利用者: 作成者本人のみ
+- 一般公開・配布はしていません
+- プライバシーポリシー: [privacy](privacy.html)
